@@ -4,3 +4,4 @@ order a pizza
 hang up phone
 find money in wallet
 wait for delivery
+answer door
